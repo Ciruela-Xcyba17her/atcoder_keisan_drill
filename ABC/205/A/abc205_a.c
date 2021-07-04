@@ -1,3 +1,6 @@
+// A - kcal
+// https://atcoder.jp/contests/abc205/tasks/abc205_a
+
 #include<stdio.h>
 
 int main(){

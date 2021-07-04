@@ -1,5 +1,5 @@
-// https://atcoder.jp/contests/abc206/tasks/abc206_a
 // A - Maxi-Buying
+// https://atcoder.jp/contests/abc206/tasks/abc206_a
 
 #include<stdio.h>
 

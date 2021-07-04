@@ -1,5 +1,5 @@
-// https://atcoder.jp/contests/abc206/tasks/abc206_b
 // B - Savings
+// https://atcoder.jp/contests/abc206/tasks/abc206_b
 
 #include<stdio.h>
 #include<math.h>
