@@ -30,7 +30,7 @@ int main(){
     }
 
     printf("%s", s_out);
-    free(s_out)
+    free(s_out);
 
     return 0;
 }
